@@ -1,0 +1,5 @@
+vendor/
+.env
+config/development/*.php
+.vscode
+.DS_Store
